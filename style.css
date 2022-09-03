@@ -1,0 +1,28 @@
+.nav-brand{
+    color: green;
+}
+
+.logo{
+    height: 10vh;
+
+}
+.btn-group{
+    border: blue;
+    background-color: rgb(29, 29, 203);
+   
+}
+
+.mainContainer{
+height: 50vh;
+display: flex;
+justify-content: space-around;
+
+}
+.carousel-inner{
+    border: solid skyblue;
+    height: 80vh;
+}
+
+.offcanvas-body{
+    
+}
